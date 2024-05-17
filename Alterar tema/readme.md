@@ -2,9 +2,9 @@
 ## Descrição
 
 ## Tecnologias Utilizadas
-* c.css
-* index.html
-* jv.js
+* ccss
+* html
+* javascript
 ## Trabalho em grupo
 * Maria Isabel
 * Gislaine Souza
