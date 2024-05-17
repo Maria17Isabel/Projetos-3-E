@@ -2,9 +2,9 @@
 ## Descrição
 
 ## Tecnologias Utilizadas
-* estilo.css.url
-* index.html.url
-* java.js.url
+* css
+* html
+* javascript
 ## Trabalho em grupo
 * Maria Isabel
 * Gislaine Souza
