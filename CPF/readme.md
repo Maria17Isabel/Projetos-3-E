@@ -1,5 +1,6 @@
 # Projeto CPF
 ## Descrição
+Projeto desenvolvido durante as aulas de informática para internet. Nesse projeto, era pedido o CPF e depois de digitado o mesmo seria verificado
 
 ## Tecnologias Utilizadas
 * css
